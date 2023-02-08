@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\Kolekcije\Kolekcije\bin\Debug\Kolekcije.exe.config
+C:\Users\ucenik\source\repos\Kolekcije\Kolekcije\bin\Debug\Kolekcije.exe
+C:\Users\ucenik\source\repos\Kolekcije\Kolekcije\bin\Debug\Kolekcije.pdb
+C:\Users\ucenik\source\repos\Kolekcije\Kolekcije\obj\Debug\Kolekcije.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Kolekcije\Kolekcije\obj\Debug\Kolekcije.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Kolekcije\Kolekcije\obj\Debug\Kolekcije.exe
+C:\Users\ucenik\source\repos\Kolekcije\Kolekcije\obj\Debug\Kolekcije.pdb
